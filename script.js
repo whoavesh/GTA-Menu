@@ -1,4 +1,4 @@
-// alert("For better experience use headphones 🎧\nAnd open it in your Desktop/Laptop.\nThanks for you visit😎");
+alert("For better experience use headphones 🎧,\nAnd open it in your Desktop/Laptop💻,\nThanks for you visit😎.");
 let elem = document.getElementsByTagName("h1");
 // console.log(elem);
 let size=30;
